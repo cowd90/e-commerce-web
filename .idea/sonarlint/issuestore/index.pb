@@ -63,3 +63,9 @@ Cproduct/src/main/java/com/cowd/ecommerce/product/ProductMapper.java,6\b\6bfc6a
 Qcustomer/src/main/java/com/cowd/ecommerce/exception/ProductPurchaseException.java,3\c\3ce2f6eb92549fafa1e80b5f4c41213daf86ed2b
 €
 Pproduct/src/main/java/com/cowd/ecommerce/exception/ProductPurchaseException.java,5\d\5de826ccf05218e432e7300fd0f8ac2281ee0928
+|
+Lproduct/src/main/java/com/cowd/ecommerce/handler/GlobalExceptionHandler.java,8\2\827165048c42e2e4860283668403a08034b8a7e4
+s
+Cproduct/src/main/java/com/cowd/ecommerce/handler/ErrorResponse.java,3\a\3a64f77d2c790dff104346b89f10090d17343954
+r
+Bcustomer/src/main/java/com/cowd/ecommerce/CustomerApplication.java,7\f\7f26e1c6a3193cdc3ca19a342fc84f9394b8939c
