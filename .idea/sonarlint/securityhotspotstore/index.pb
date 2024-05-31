@@ -59,8 +59,6 @@ w
 Gproduct/src/main/java/com/cowd/ecommerce/product/ProductRepository.java,d\f\df69e00b7b695e6f942c902879b0157b6086845d
 s
 Cproduct/src/main/java/com/cowd/ecommerce/product/ProductMapper.java,6\b\6bfc6a29b307e934a259cc98ced76d076d7dff3c
-Å
-Qcustomer/src/main/java/com/cowd/ecommerce/exception/ProductPurchaseException.java,3\c\3ce2f6eb92549fafa1e80b5f4c41213daf86ed2b
 Ä
 Pproduct/src/main/java/com/cowd/ecommerce/exception/ProductPurchaseException.java,5\d\5de826ccf05218e432e7300fd0f8ac2281ee0928
 |
@@ -69,3 +67,11 @@ s
 Cproduct/src/main/java/com/cowd/ecommerce/handler/ErrorResponse.java,3\a\3a64f77d2c790dff104346b89f10090d17343954
 r
 Bcustomer/src/main/java/com/cowd/ecommerce/CustomerApplication.java,7\f\7f26e1c6a3193cdc3ca19a342fc84f9394b8939c
+=
+order/pom.xml,2\7\27ca9127fd75386d2b0342cfd7de9e3e93791f5b
+j
+:order/src/main/java/com/example/ecommerce/order/Order.java,e\7\e7b457b7cd7fbac883a28d1eeed84334cac48122
+r
+Border/src/main/java/com/example/ecommerce/order/PaymentMethod.java,8\5\852a58924ded33614ec322f0dbf9773125404554
+r
+Border/src/main/java/com/example/ecommerce/orderline/OrderLine.java,5\0\502067a2b314732830e1638351476d374a81e815
