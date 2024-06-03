@@ -81,8 +81,6 @@ q
 Aorder/src/main/java/com/example/ecommerce/order/OrderService.java,f\a\fa84a2dc7adba5482fb047402bb07f974bab8271
 q
 Aorder/src/main/java/com/example/ecommerce/order/OrderRequest.java,3\5\353b8e7cb55d245eb27c7d6f06e8ee10f25906e1
-t
-Dorder/src/main/java/com/example/ecommerce/order/PurchaseRequest.java,7\b\7b7c4448bfafeb2fb699b32cdf77cf246b3c1766
 v
 Forder/src/main/java/com/example/ecommerce/product/PurchaseRequest.java,c\2\c268b7a1fe53f417486803f38ada955e3306009c
 v
@@ -111,3 +109,5 @@ Iorder/src/main/java/com/example/ecommerce/orderline/OrderLineRequest.java,f\a\
 Lorder/src/main/java/com/example/ecommerce/orderline/OrderLineRepository.java,7\e\7e0ce3740bff47843da0dff6d346da92ae443745
 x
 Horder/src/main/java/com/example/ecommerce/orderline/OrderLineMapper.java,4\b\4b5d89686456faa8d33dd3baec12603e9175db33
+{
+Korder/src/main/java/com/example/ecommerce/config/KafkaOrderTopicConfig.java,3\7\370ee75a4bebc65c120e359d310eca7b16bb8e32
