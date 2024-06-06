@@ -129,8 +129,6 @@ Dorder/src/main/java/com/example/ecommerce/handler/ErrorResponse.java,a\d\ad457
 payment/HELP.md,7\a\7a4b4fcac705fede98d427882baed41001d0258c
 ?
 payment/pom.xml,f\6\f668926134b80226afc9f53362827feb391dddf1
-a
-1payment/src/main/resources/application.properties,1\8\183906219a3d7f20f38ce9e36501668dbfaca6aa
 u
 Epayment/src/main/java/com/cowd/ecommerce/payment/payment/Payment.java,6\6\66d29db5f24648641bba4c566b34a5a2b986a386
 {
@@ -155,3 +153,7 @@ Tpayment/src/main/java/com/cowd/ecommerce/payment/config/KafkaPaymentTopicConfig
 Wpayment/src/main/java/com/cowd/ecommerce/payment/notification/NotificationProducer.java,5\6\5632e55d026b7618af5e66eab6800ed2dcc5ec57
 ç
 ]payment/src/main/java/com/cowd/ecommerce/payment/notification/PaymentNotificationRequest.java,5\8\586f209dc24fc91738c5997567644390e2b68f74
+t
+Dorder/src/main/java/com/example/ecommerce/payment/PaymentClient.java,8\8\887bb1dc740a2212f7e4aa65fb53a8e751801874
+u
+Eorder/src/main/java/com/example/ecommerce/payment/PaymentRequest.java,1\2\12f6d2ddfde57a3fe4a50f1b8ac4e7ff00763287
