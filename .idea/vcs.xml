@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/config-server" vcs="" />
     <mapping directory="$PROJECT_DIR$/customer" vcs="" />
     <mapping directory="$PROJECT_DIR$/discovery" vcs="" />
+    <mapping directory="$PROJECT_DIR$/gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/notification" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/order" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />

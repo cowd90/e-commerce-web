@@ -183,3 +183,5 @@ Rnotification/src/main/java/com/cowd/ecommerce/notification/email/EmailService.j
 Wnotification/src/main/java/com/cowd/ecommerce/notification/NotificationApplication.java,9\1\91c575160e6620a671c416ba41da952094dcde89
 ƒ
 Snotification/src/main/java/com/cowd/ecommerce/notification/email/EmailTemplate.java,6\5\656fff6e1c27f2eac8e6379df877d91b13083f62
+?
+gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
