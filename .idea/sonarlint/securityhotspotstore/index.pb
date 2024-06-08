@@ -185,3 +185,5 @@ Wnotification/src/main/java/com/cowd/ecommerce/notification/NotificationApplicat
 Snotification/src/main/java/com/cowd/ecommerce/notification/email/EmailTemplate.java,6\5\656fff6e1c27f2eac8e6379df877d91b13083f62
 ?
 gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
+s
+Cgateway/src/main/java/com/cowd/gateway/security/SecurityConfig.java,8\e\8e189bf98b8e3a3f85a1bc4db9e3bd86636bc8f8
